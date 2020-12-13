@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/aum-singhal/code-off-duty/static/css/main.0e0ebfe5.chunk.css",
+    "main.js": "/aum-singhal/code-off-duty/static/js/main.40ed391c.chunk.js",
+    "main.js.map": "/aum-singhal/code-off-duty/static/js/main.40ed391c.chunk.js.map",
+    "runtime-main.js": "/aum-singhal/code-off-duty/static/js/runtime-main.807c53a3.js",
+    "runtime-main.js.map": "/aum-singhal/code-off-duty/static/js/runtime-main.807c53a3.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/aum-singhal/code-off-duty/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.b2fef617.chunk.js": "/aum-singhal/code-off-duty/static/js/2.b2fef617.chunk.js",
+    "static/js/2.b2fef617.chunk.js.map": "/aum-singhal/code-off-duty/static/js/2.b2fef617.chunk.js.map",
+    "static/js/3.e03f35a6.chunk.js": "/aum-singhal/code-off-duty/static/js/3.e03f35a6.chunk.js",
+    "static/js/3.e03f35a6.chunk.js.map": "/aum-singhal/code-off-duty/static/js/3.e03f35a6.chunk.js.map",
+    "index.html": "/aum-singhal/code-off-duty/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/aum-singhal/code-off-duty/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.0e0ebfe5.chunk.css.map": "/aum-singhal/code-off-duty/static/css/main.0e0ebfe5.chunk.css.map",
+    "static/js/2.b2fef617.chunk.js.LICENSE.txt": "/aum-singhal/code-off-duty/static/js/2.b2fef617.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.807c53a3.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.b2fef617.chunk.js",
+    "static/css/main.0e0ebfe5.chunk.css",
+    "static/js/main.40ed391c.chunk.js"
+  ]
+}
